@@ -5,3 +5,8 @@ Record the useful code, which can be used to modify the graphics to facilitate t
 
 We sincerely welcome everyone to share their experience.
 真诚地欢迎大家分享经验。
+
+tips:
+T01 调整柱形图的顺序，和提取图注并添加到空白位置 
+Adjust the order of the column chart, and extract the legend and add it to the blank position
+
